@@ -1,0 +1,11 @@
+{
+  "name": "Spending Tracker",
+  "short_name": "Spending",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f5fa",
+  "theme_color": "#6d3fd6",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
